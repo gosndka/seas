@@ -3,8 +3,7 @@
 
 get_url() {
 	local version
-	version=$(0.8.25)
-	echo "https://github.com/jpillora/cloud-torrent/releases/download/"$version"/cloud-torrent_linux_amd64.gz"
+	echo "https://github.com/jpillora/cloud-torrent/releases/download/0.8.25/cloud-torrent_linux_amd64.gz"
               
 }
 
